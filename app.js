@@ -5,4 +5,4 @@
 
 // multiply
 
-//check commit
+//commit check
